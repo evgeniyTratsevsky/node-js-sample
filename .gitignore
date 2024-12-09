@@ -130,3 +130,6 @@ dist
 .pnp.*
 
 .secrets
+
+# System files
+package-lock.json
